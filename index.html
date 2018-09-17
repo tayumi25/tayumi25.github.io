@@ -145,26 +145,40 @@ Detik-detik berjalan dengan sangat lambat, jedanya bagaikan seumur hidup. Terlin
          </tr>
       </table>
       <form>
-         <label>Nama</label>
-         <input type="text">
+         <p>
+           <label>Nama</label>
+           <input type="text" name="nama">
+         </p>
          
-         <label>Alamat</label>
-         <textarea></textarea>
-            
-         <label>Negara</label>
-         <select>
+         <p>
+           <label for="address">Alamat</label>
+           <textarea name="address"></textarea>
+         </p>
+         
+         <p>
+           <label for="country">Negara</label>
+           <select name="country">
                 <option>Estonia</option>
                 <option>Finlandia</option>
-         </select>
-            
-         <label>Gender</label>
-         <input type="radio"> <label>Male</label>
-         <input type="radio"> <label>Female</label>
-            
-         <label></label>
-         <input type="checkbox"> <label>school</label>
-         <input type="checkbox"> <label>work</label>
-            
+           </select>
+         </p>
+         
+         <p> 
+           <label>Gender</label>
+           <input type="radio" name="male"> 
+           <label for="male">Male</label>
+           <input type="radio" name="female"> 
+           <label for="female">Female</label>
+         </p>
+         
+         <p>
+           <label>Pekerjaan</label>
+           <input type="checkbox" name="school"> 
+           <label for="school">school</label>
+           <input type="checkbox" name="work"> 
+           <label for="work">work</label>
+         </p> 
+         
          <button>Save</button>   
       </form>
    </body>
