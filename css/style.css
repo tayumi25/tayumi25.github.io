@@ -3,13 +3,13 @@ body {
 }
 
 p {
-  color: camel;
+  color: #F2CB4D;
 }
 a {
   color: cream;
 }
 a:hover {
-  color: navy;
+  color: #B196CC;
 }
 li {
   color: banana;
@@ -18,8 +18,8 @@ h1 {
   color: coral;
 }
 h2 {
-  color: peach;
+  color: #febbbb;
 }
 h5 {
-  color: copper;
+  color: #EADA4B;
 }
