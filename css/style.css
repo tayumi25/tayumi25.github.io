@@ -1,25 +1,25 @@
-body{
+body {
   background-color: beige;
 }
 
-p{
+p {
   color: camel;
 }
-a{
+a {
   color: cream;
 }
-a:hover{
+a:hover {
   color: navy;
 }
-li{
+li {
   color: banana;
 }
-h1{
+h1 {
   color: coral;
 }
-h2{
+h2 {
   color: peach;
 }
-h5{
+h5 {
   color: copper;
 }
