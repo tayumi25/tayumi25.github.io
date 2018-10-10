@@ -8,5 +8,8 @@ a{
   color: cream;
 }
 li{
-  color; rgb(168, 119, 141);
+  color: rgb(168, 119, 141);
+}
+h1{
+  color: coral;
 }
