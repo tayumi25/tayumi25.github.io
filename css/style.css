@@ -1,11 +1,15 @@
 body{
   background-color: beige;
 }
+
 p{
   color: rgb(255, 95, 95);
 }
 a{
   color: cream;
+}
+a:hover{
+  color: navy;
 }
 li{
   color: rgb(168, 119, 141);
