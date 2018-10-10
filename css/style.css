@@ -3,7 +3,7 @@ body{
 }
 
 p{
-  color: rgb(255, 95, 95);
+  color: camel;
 }
 a{
   color: cream;
@@ -12,7 +12,7 @@ a:hover{
   color: navy;
 }
 li{
-  color: rgb(168, 119, 141);
+  color: banana;
 }
 h1{
   color: coral;
@@ -21,5 +21,5 @@ h2{
   color: peach;
 }
 h5{
-  color: rgb(254, 187, 187);
+  color: copper;
 }
