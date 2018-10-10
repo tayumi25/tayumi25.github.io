@@ -1,6 +1,12 @@
 body{
-  background-color: pink;
+  background-color: beige;
+}
+p{
+  color: rgb(255, 95, 95);
 }
 a{
   color: cream;
+}
+li{
+  color; rgb(168, 119, 141);
 }
