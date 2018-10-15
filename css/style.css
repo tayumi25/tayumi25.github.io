@@ -29,14 +29,18 @@ h2 {
 h5 {
   color: #EADA4B;
 }
-div{
+div {
   background-color: rgb(0, 255, 255);
 }
 
-.box1{
+.box1 {
   background-color: blue;
+  width: 350px;
+  height: 350px;
 }
 
-.box2{
+.box2 {
   background-color: pink;
+  width: 50%;
+  height: 50%;
 }
