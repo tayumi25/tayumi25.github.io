@@ -45,10 +45,14 @@ h5 {
 
 .beyonce {
   background-color: pink;
+  float: left;
+  width: 50%;
 }
 
 .Tayumi {
   background-color: grey;
+  float: right;
+  width: 50%;
 }
 
 
