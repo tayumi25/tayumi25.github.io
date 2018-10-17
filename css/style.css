@@ -26,12 +26,13 @@ h1 {
  font-family: 'Cabin Sketch', cursive;
 }
 h2 {
-  color: #b9d000;
+  color: #b1fca2;
   font-family: 'Amatic SC',cursive;
 }
 h3 {
   color: #b9d000;
   font-family: 'Amatic SC',cursive;
+  font-size : 15px;
 }
 h5 {
   color: #ffdbbe;
