@@ -56,5 +56,15 @@ h5 {
   float: right;
   width: 50%;
 }
+.make {
+  float: left;
+  width: 50%;
+}
+
+.up {
+  float: right;
+  width: 50%;
+}
+
 
 
