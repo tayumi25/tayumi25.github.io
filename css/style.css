@@ -56,6 +56,10 @@ h5 {
   float: right;
   width: 50%;
 }
+.parent{
+  background-color: #c0d3b5;
+  width: 100%;
+}
 .make {
   float: left;
   width: 50%;
