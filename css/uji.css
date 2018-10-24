@@ -7,5 +7,7 @@
 .anak1{
   background-image: url(https://www.fentybeauty.com/dw/image/v2/AAXW_PRD/on/demandware.static/-/Sites-FENTY-Library/default/v1540322345125/homepage/Hol18_Featured_Highlight.jpg);
   background-repeat: no-repeat;
-  height: 100%;
+  background size: 100%;
+  width: 50px;
+  height: 100px;
 }
