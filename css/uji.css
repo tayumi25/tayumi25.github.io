@@ -1,5 +1,5 @@
 .parent{
-  background-image: url(https://steamuserimages-a.akamaihd.net/ugc/2439138384231383187/92958FBC6DD2BC50757C852FCB9718AC16D22120/);
+  background-image: url(file:///E:/646.jpg);
   background-repeat: no-repeat;
   width:200%;
   height: 900px;
@@ -7,6 +7,5 @@
 .anak1{
   background-image: url(https://www.fentybeauty.com/dw/image/v2/AAXW_PRD/on/demandware.static/-/Sites-FENTY-Library/default/v1540322345125/homepage/Hol18_Featured_Highlight.jpg);
   background-repeat: no-repeat;
-  width:100px;
-  height: 500px;
+  height: 100%;
 }
