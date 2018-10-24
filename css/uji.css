@@ -9,3 +9,7 @@
   background-repeat: no-repeat;
   height: 100%;
 }
+body {
+    display: block;
+    margin: 8px;
+}
