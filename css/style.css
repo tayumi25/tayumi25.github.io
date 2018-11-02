@@ -90,5 +90,32 @@ h4{
   text-align: center;
   font-size: 50px;
 }
-
-
+.latar{
+  background-color: #90EE90;
+  float: left;
+  width: 50%;
+}
+.produk{
+  background-color: #90EE90;
+  float: left;
+  width: 50%;
+}
+.pemasaran{
+  background-color: #90EE90;
+  float: left;
+  width: 50%;
+}
+.aneka{
+  background-color: #90EE90;
+  float: left;
+  width: 50%;
+}
+.footer{
+  background-color: #3CB371;
+  float: right;
+  width: 50%;
+}
+.maps{
+ float: left;
+ width:50%;
+}
