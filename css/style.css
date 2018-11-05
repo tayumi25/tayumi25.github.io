@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 @import url('https://fonts.googleapis.com/css?family=VT323');
 body {
-  background-color: #FFDAB9;
+  background-color: #FFFFFF;
 }
 
 p {
@@ -78,7 +78,7 @@ h4{
   padding-top: inherit;
   position: relative;
   text-align: center;
-  color:  white;
+  color:  black;
   font-size: 50px;
   font-family: fantasy;
 }
