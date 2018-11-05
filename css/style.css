@@ -2,39 +2,39 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 @import url('https://fonts.googleapis.com/css?family=VT323');
 body {
-  background-color: #396070;
+  background-color: #FFDAB9;
 }
 
 p {
-  color:	#6B8E23;
+  color:	#FFE4B5;
 }
 a {
-  color: #C46474;
+  color: #87CEEB;
   font-family: 'VT323', monospace;
   font-size: 30px;
   
 }
 a:hover {
-  color: #B196CC;
+  color: #87CEFA;
 }
 li {
-  color: #D870C0;
+  color: #B0E0E6;
 }
 h1 {
-  color: #E074AC;
+  color: #87CEEB;
  font-family: 'Cabin Sketch', cursive;
 }
 h2 {
-  color: #3cB371;
+  color: #4682B4;
   font-family: 'Amatic SC',cursive;
 }
 h3 {
-  color: #b9d000;
+  color: #4682B4;
   font-family: 'Amatic SC',cursive;
   font-size: 50px;
 }
 h5 {
-  color: #ffdbbe;
+  color: #4682B4;
 }
 .box1 {
   background-color: blue;
@@ -58,18 +58,18 @@ h5 {
   width: 50%;
 }
 .parent{
-  background-color: #c0d3b5;
+  background-color: #FAEBD7;
   width: 100%;
   height: 500px;
 }
 .make {
-  background-color: #c0debe;
+  background-color: #FFE4E1;
   float: left;
   width: 50%;
 }
 
 .up {
-  background-color: #c0debe;
+  background-color: #FFE4E1;
   float: right;
   width: 50%;
 }
